@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 sh script to display information about subdomains
 
 dns_config () {
